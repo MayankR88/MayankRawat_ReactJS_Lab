@@ -17,10 +17,10 @@ function PrintEmployee2(empInfo : EmployeeInfo){
 
 }
 
-let SwetaEmp : EmployeeInfo = {
+let MarkEmp : EmployeeInfo = {
   id: 1,
-  name: 'Sweta',
-  email : 'sweta@gmail.com'
+  name: 'Mark',
+  email : 'mark@gmail.com'
 }
 
-PrintEmployee2(SwetaEmp);
+PrintEmployee2(MarkEmp);
